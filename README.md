@@ -10,7 +10,6 @@ Defend your base by strategically placing towers along the enemy's path. Survive
 - Manage your gold to build and upgrade your defenses
 - Complete all 4 levels with increasing difficulty
 
----
 
 ## 🗺️ Game Screens
 
@@ -24,7 +23,6 @@ Defend your base by strategically placing towers along the enemy's path. Survive
 | Pause | Pause mid-game |
 | Game Over | Triggered when the base is destroyed |
 
----
 
 ## 🗼 Towers
 
@@ -38,7 +36,6 @@ Defend your base by strategically placing towers along the enemy's path. Survive
 
 Each tower has a price; manage your gold wisely!
 
----
 
 ## 👾 Enemies & Monsters
 
@@ -49,13 +46,11 @@ Each tower has a price; manage your gold wisely!
 - Wolf
 - WolfKnight
 
----
 
 ## 🦸 Hero
 
 A controllable hero character (Dragonite) that you can move around the map and use to fight enemies directly alongside your towers.
 
----
 
 ## 📁 Project Structure
 
@@ -79,7 +74,6 @@ A controllable hero character (Dragonite) that you can move around the map and u
 └── algif5/                          # GIF rendering library for Allegro5
 ```
 
----
 
 ## 🛠️ Build & Run
 
@@ -100,7 +94,6 @@ make
 
 > The `.dll` files (Allegro, libgcc, libstdc++, libwinpthread) are included for Windows users so no separate installation is needed.
 
----
 
 ## 🎵 Assets
 
@@ -108,7 +101,6 @@ make
 - All sprite images under `assets/image/`
 - Level maps defined as text files under `assets/level/`
 
----
 
 ## 📚 References
 
