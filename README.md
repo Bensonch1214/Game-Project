@@ -1,7 +1,4 @@
 # Introduction to Programming II Final Project
-
-# 🏰 Tower Defense Game
-
 > A C++ tower defense game built with the Allegro5 library, developed as the final project for **Introduction to Programming II** at NTHU.
 
 ---
