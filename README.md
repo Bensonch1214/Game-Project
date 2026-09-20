@@ -1,4 +1,4 @@
-# Introduction to Programming II Final Project Template
+# Introduction to Programming II Final Project
 > Class Hwann-Tzong Chen
 
 ## Resource
