@@ -1,8 +1,6 @@
 # Introduction to Programming II Final Project
-> Class Hwann-Tzong Chen
-=======
+
 # 🏰 Tower Defense Game
->>>>>>> 645173d (docs: update README)
 
 > A C++ tower defense game built with the Allegro5 library, developed as the final project for **Introduction to Programming II** at NTHU.
 
@@ -124,9 +122,4 @@ make
 - [Allegro5 Documentation](https://www.allegro.cc/manual/5/index.html)
 - [GIF Converter](https://ezgif.com/video-to-gif)
 
----
 
-## 👨‍💻 Author
-
-**Benson Chang (張博安)**  
-National Tsing Hua University — Introduction to Programming II Final Project
